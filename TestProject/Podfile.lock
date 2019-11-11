@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.9.0)
+  - AlamofireImage (3.4.1):
+    - Alamofire (~> 4.7)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - ObjectMapper (3.5.1)
+  - Reusable (4.1.0):
+    - Reusable/Storyboard (= 4.1.0)
+    - Reusable/View (= 4.1.0)
+  - Reusable/Storyboard (4.1.0)
+  - Reusable/View (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireImage (~> 3.4.1)
+  - AlamofireObjectMapper
+  - Reusable
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - ObjectMapper
+    - Reusable
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  AlamofireImage: 78d67ccbb763d87ba44b21583d2153500a195630
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  Reusable: 82be188f29d96dc5eff0db7b2393bcc08d2cdd5b
+
+PODFILE CHECKSUM: 46404b46e46dc8e42661c1f5dc097f30a3951459
+
+COCOAPODS: 1.8.3
